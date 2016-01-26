@@ -1,0 +1,25 @@
+package com.Iroshy.Ideas
+
+public class Ideas {
+
+public static final string MBTANK;
+public static final string MBCELL;
+public static final string MBREACTOR;
+
+
+public static void() init{
+
+ //You can add Tiers if you want like you love to do
+
+MBTANK=new "multiblock structure who can take differents shapes and size to store a lots of liquids"
+MBCELL=new "multiblock structure who can store a huge amount of power producted by the following idea"
+MBREACTOR=new "multiblock structure who can Generate a HUGE amount of RF For big needs"
+
+}
+}
+
+HI GUYS THIS DOCS WAS REDACTED LIKE A JAVA CLASS FOR JOKING AND ITS DUE TO THE FACT I START BASICS MODDING AND ID LIKE TO DO A MOD BUT 
+I NEED HELP WHIT NBT GUI TE STUFF AND OTHER TO MAKE MY MOD ATTRACTIVE LIKE YOURS
+REALLY GOOD JOB GUY I REALLY HOPE YOU WILL NOTICE THAT  BUT IDEAS ARE TRUE I HOPE THIS THING DONT HURT YOU THANKS AND GOOD BYE
+
+WITH ALL RESPECT FROM IROSHY TO TEAM COFH
